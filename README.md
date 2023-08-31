@@ -24,6 +24,11 @@
 
 4. **Hourly Ratings Plot**: For predictions, you'll also receive an hourly ratings plot that visualizes the predicted weather scores throughout the day.
 
+## Demo
+
+Check out the live demo of the WeatherApp.v1 application [here](https://huggingface.co/spaces/egecandrsn/WeatherApp.v1).
+
+
 ## Installation and Usage
 
 1. Clone or download the repository to your local machine.
